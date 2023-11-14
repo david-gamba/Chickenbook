@@ -2,11 +2,11 @@
 # 🐥 Chickenbook 🐥
 
 This is a [project](https://github.com/juniorguru/challenge/tree/main) within the [Junior Guru club](https://junior.guru), 
-an active Czechoslovakian community for both beginning and experienced developers on Discord. Each challenge is actually a
+an active Czechoslovakian community for both beginning and experienced developers on [Discord](https://discord.com/). Each challenge is actually a
 topic/theme with several project ideas so that any club member can choose the one that best suits their focus and experience 
 level. This repository will contain descriptions of all challenges and links to repositories of individual participants. 
 All communication including challenge updates, feedback sharing and helping each other will take place on the club's 
-[Discord](https://discord.com/). 
+Discord. 
 server or in the participants' repos. However, even if you aren't in the club, feel free to use the 
 [project ideas](https://github.com/juniorguru/challenge/blob/main/challenges/challenge-1.md) to practise 
 your dev skills.
